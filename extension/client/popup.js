@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000";
+const API_URL = "https://blinkclip.onrender.com";
 let allClips = [];
 let visibleCount = 0;
 const BATCH_SIZE = 10;
