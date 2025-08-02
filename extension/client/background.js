@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000";
+const API_URL = "https://blinkclip.onrender.com";
 
 // Check token on startup
 chrome.runtime.onStartup.addListener(() => {
